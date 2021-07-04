@@ -78,3 +78,35 @@ h3{
     font-size:20px;
     padding-left:1%;
 }
+
+
+.right-div{
+    
+    border-image: linear-gradient(salmon,orange);
+    border-image-slice: 1;
+    border-left: 5px solid;
+}
+
+.left-div{
+    
+    border-image: linear-gradient(yellow,cyan);
+    border-image-slice: 1;
+    border-left: 5px solid;
+
+}
+footer{
+    width: 400px;
+    margin:0 auto;
+}
+footer p{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+footer span{
+    font-size: 25px;
+    color:lightseagreen;
+    font-weight:bold;
+    font-style: italic;
+    
+}
