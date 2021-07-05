@@ -104,7 +104,7 @@ footer p{
     color: white;
 }
 footer span{
-    font-size: 25px;
+    /* font-size:; */
     color:lightseagreen;
     font-weight:bold;
     font-style: italic;
